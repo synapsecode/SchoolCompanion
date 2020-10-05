@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179816318889",
+    "firebase_url": "https://schoolcompanionnotifier.firebaseio.com",
+    "project_id": "schoolcompanionnotifier",
+    "storage_bucket": "schoolcompanionnotifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179816318889:android:56de21ae40982de1",
+        "android_client_info": {
+          "package_name": "com.example.school_companion_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179816318889-15ss4nkhbn9hirrb2ojmi0kro0u5j7b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVSHuN1Jh3J_e-DDJF0MAn8hTjidhM1XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179816318889-15ss4nkhbn9hirrb2ojmi0kro0u5j7b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
