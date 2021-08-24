@@ -1,5 +1,4 @@
 # SchoolCompanion App
-(FULL VIDEO DEMO): https://drive.google.com/file/d/1rYtUg1YKjB-Gv0RKDV4FiKHjuK9uxfOV/view?usp=sharing
 
  A Simple platform that establishes a connection between a student and a school! This application was built for a school exhibition named "Prayoga". The idea of this application is very simple, It just acts as a middleman between school authorities and a student and provides crucial information such as Circulars, Sample Papers, Video Lessons, Notes, Reminders and so much more!
  
